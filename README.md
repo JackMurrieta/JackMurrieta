@@ -1,18 +1,19 @@
-Hi there, I'm Jack Murrieta! 👋
+<h1 align="center">Hi there, I'm Jack Murrieta! 👋</h1>
 
+<p align="center">
+  <b>Software Engineering Student @ <a href="https://www.itson.mx/portalinstitucional/">ITSON</a> · Sonora, Mexico</b>
+</p>
 
-  Software Engineering Student @ ITSON · Sonora, Mexico
-  Building scalable systems & clean architecture.
+<p align="center">
+  Building scalable systems & clean architecture.<br>
   Passionate about Distributed Systems, Microservices, and Software Design.
+</p>
 
+<p align="center">
+  <a href="https://www.itson.mx/portalinstitucional/"><img src="https://img.shields.io/badge/ITSON-005a9e?style=for-the-badge&logoColor=white"/></a>
+  <a href="mailto:jack.murrieta252851@potros.itson.edu.mx"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-
-  
-  
-  
-
-
----
 
 ## 🧑‍💻 About Me
 
@@ -31,6 +32,7 @@ I specialize in software architecture, design patterns, and building scalable se
 **Languages & Frontend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,25 +56,14 @@ I specialize in software architecture, design patterns, and building scalable se
 ![Microservices](https://img.shields.io/badge/Microservices-00BCD4?style=for-the-badge&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-FF9800?style=for-the-badge&logoColor=white)
 
----
 
 ## 🏗 Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏥 Medical Students Portal | University website for medical students with program resources | HTML, CSS, JavaScript |
-| ⚙️ Distributed Systems Lab | Microservices architecture with REST APIs and HTTP communication | Java, REST, HTTP |
-| 🎨 Angular App Redesign | Full front-end redesign improving UX and component architecture | Angular, TypeScript, CSS |
+| [🏥 Medical Students Portal](https://semcajeme-web.vercel.app/index.html) | University website for medical students with program resources | HTML, CSS, JavaScript |
+| [🎨 Alzaid SuperAdmin](https://github.com/JackMurrieta/Alzaid-SuperAdmin) | Full front-end redesign improving UX and component architecture | Angular, TypeScript, CSS |
+| [🌱 Invernadero (Distributed Systems)](https://github.com/JackMurrieta/ProyectoInvernadero) | Microservices architecture with REST APIs and HTTP communication | 
 
----
-## 📫 Connect with me
-
-I'm actively looking for **internships** and **summer programs** where I can apply my skills in backend development, distributed systems, and software architecture.
-
-> 📍 Sonora, Mexico · 📚 ITSON Software Engineering · 🎯 Open to remote opportunities
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jack.murrieta252851@potros.itson.edu.mx)
-
----
 
 <p align="center"><i>I believe technology should do more than perform — it should matter.<br>I build with the hope that what I create improves someone's life, protects the environment, or gives a voice to those who need one.</i></p>
