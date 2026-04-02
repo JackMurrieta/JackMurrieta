@@ -10,10 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="https://jackmurrieta.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.itson.mx/portalinstitucional/"><img src="https://img.shields.io/badge/ITSON-005a9e?style=for-the-badge&logoColor=white"/></a>
   <a href="mailto:jack.murrieta252851@potros.itson.edu.mx"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+---
 
 ## 🧑‍💻 About Me
 
@@ -56,14 +58,18 @@ I specialize in software architecture, design patterns, and building scalable se
 ![Microservices](https://img.shields.io/badge/Microservices-00BCD4?style=for-the-badge&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-FF9800?style=for-the-badge&logoColor=white)
 
+---
 
-## 🏗 Projects
+## 🏗 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [🏥 Medical Students Portal](https://semcajeme-web.vercel.app/index.html) | University website for medical students with program resources | HTML, CSS, JavaScript |
+| [🏥 Medical Students Portal](https://semcajeme-web.vercel.app/index.html) | University website for SEMCAJEME medical students, live in production | HTML, CSS, JavaScript |
 | [🎨 Alzaid SuperAdmin](https://github.com/JackMurrieta/Alzaid-SuperAdmin) | Full front-end redesign improving UX and component architecture | Angular, TypeScript, CSS |
-| [🌱 Invernadero (Distributed Systems)](https://github.com/JackMurrieta/ProyectoInvernadero) | Microservices architecture with REST APIs and HTTP communication | 
+| [🌱 Invernadero](https://github.com/JackMurrieta/ProyectoInvernadero) | Microservices architecture with REST APIs and HTTP communication | Java, Spring Boot |
 
+> See all projects with previews → **[jackmurrieta.github.io/Portfolio](https://jackmurrieta.github.io/Portfolio/)**
+
+---
 
 <p align="center"><i>I believe technology should do more than perform — it should matter.<br>I build with the hope that what I create improves someone's life, protects the environment, or gives a voice to those who need one.</i></p>
